@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 3rem;
+  background-color: #befce9;
+}
+#project {
+  background-color: #befce9;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 1px;
+  background-color: #057069;
+  color: #fff;
+}
